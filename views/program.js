@@ -31,7 +31,7 @@ export default function Program({ navigation }) {
                 <Pressable style={styles.backbtn} onPress={() => navigation.goBack()}>
                     <Image source={require('../assets/left-arrow.png')} />
                 </Pressable>
-                <Text style={styles.headerText}>Markaziy </Text>
+                <Text style={styles.headerText}>Markaziy studiya</Text>
             </View>
             <ScrollView style={styles.Scrollcontainer}>
                 {
