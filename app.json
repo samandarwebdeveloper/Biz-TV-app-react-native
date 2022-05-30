@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "app",
+    "name": "Biz TV",
     "slug": "app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/biztvLogo.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -21,8 +21,9 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.biztv.app",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/biz-tv-load-logo.png",
         "backgroundColor": "#FFFFFF"
       }
     },
